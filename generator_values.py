@@ -5,6 +5,11 @@ import random
 
 logging.basicConfig(filename='data.log', level=logging.DEBUG)
 
+
+# TODO: time +15min, id device and id pom
+
+
+
 # static variable
 MIN_VALUE = 3.0
 MAX_VALUE = 6.0
